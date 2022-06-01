@@ -6,6 +6,6 @@ hello yjx! hello git!
 hello yjx! hello git!
 hello yjx! hello git!
 hello yjx! hello git!
-zhe li  s  master1
-zhe li  s  master2
+master2
+
 
